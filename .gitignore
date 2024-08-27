@@ -2,3 +2,4 @@
 *.env
 *.mypy_cache
 *.csv
+chroma_langchain_db
